@@ -1,0 +1,8 @@
+{
+  "model": "chatglm3-6b",
+  "api_key": "sk-FFklQGpMt6x2BmckfKKTiyCKbPTYLu7xCNaQqRcrhbwtLVH6",
+  "base_url": "http://0.0.0.0:8000/v1",
+  "seed": 12345,
+  "filepath": "txt.txt",
+  "language": "CN"
+}
