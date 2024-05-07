@@ -1,6 +1,6 @@
 {
     "model": "gpt-3.5-turbo",
-    "api_key": "sk-da1dT5k4FGvHeTDE0OrgVOTQAcfyMHhjZzMeELANqZEGnpk1",
+    "api_key": "yourapikey",
     "base_url": "https://api.chatanywhere.com.cn/v1",
     "seed": 12345,
     "filepath": "txt.txt",
